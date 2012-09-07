@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GrailsResourcesSpike.iml" filepath="$PROJECT_DIR$/GrailsResourcesSpike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrailsResourcesSpike-grailsPlugins.iml" filepath="$PROJECT_DIR$/GrailsResourcesSpike-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
